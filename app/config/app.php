@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'url' => 'http://localhost',
+	'url' => 'http://local.reputable.me',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -65,7 +65,7 @@ return array(
 	|
 	*/
 
-	'key' => 'pshwR959ZVzboX99llamZ7YDHwbmL3MK',
+	'key' => '5K37iA6USiTyxWnrZuws7mWDWCCv7iZZ',
 
 	/*
 	|--------------------------------------------------------------------------
